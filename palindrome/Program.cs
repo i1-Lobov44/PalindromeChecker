@@ -1,5 +1,4 @@
-﻿// Программа определяет, являются ли введённые данные палиндромом. Удивил, да?
-bool program = true;
+﻿bool program = true;
 var funcMan = new Func();
 
 while (program)
